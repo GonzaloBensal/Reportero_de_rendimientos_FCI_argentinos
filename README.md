@@ -22,5 +22,5 @@ Devuelve algo así:
       "id_fondo":"3",
       "rendimiento":"1.3"
    }
-   ]
+]
 ```
