@@ -1,4 +1,4 @@
-# Reportero_de_rendimientos_FCI_argentinos
+# Reportero de rendimientos FCI argentinos
 Este script funciona para obtener un reporte (JSON array) de los FCI de mayor a menor rendimiento entre dos fechas.
 
 Ejemplo de uso:
