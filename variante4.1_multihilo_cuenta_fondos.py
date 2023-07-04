@@ -81,7 +81,7 @@ def obtener_fondos_mas_rindieron(fecha_inicio, fecha_fin):
                     rendimiento = response_rendimiento.json()
                     if 'error' not in rendimiento:
                         with lock:
-                            fondos_filtrados.append({'nombre_fondo': fondo['nombre'], 'nombre_fondo_full': fondos_clase['nombre'], 'id_fondo': fondo['id'], 'id_clase': fondos_clase['id'], 'rendimiento': rendimiento['data']['rendimiento']})
+                            fondos_filtrados.append({'nombre_fondo': fondo['nombre'], 'id_fondo': fondo['id'], 'rendimiento': rendimiento['data']['rendimiento']})
 
                 with lock:
                     fondos_procesados += 1
