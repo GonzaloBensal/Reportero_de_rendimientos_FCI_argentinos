@@ -1,0 +1,6 @@
+-No me dice la clase del fondo
+-No me muestra el rango de fechas elegido
+-No me muestra la sociedad gerente
+
+-Hay datos erroneos en rendimiento, hay que verificar la pagina/api del CAFCI para ver si trae lo mismo
+
