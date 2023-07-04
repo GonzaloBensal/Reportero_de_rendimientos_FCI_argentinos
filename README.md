@@ -1,5 +1,5 @@
 # Reportero de rendimientos FCI argentinos
-Este script funciona para obtener un reporte (JSON array) de los FCI de mayor a menor rendimiento entre dos fechas.
+Este script funciona para obtener un reporte (JSON array) de los Fondos Comunes de Inversión de mayor a menor rendimiento entre dos fechas.
 
 Ejemplo de uso:
 print(obtener_fondos_mas_rindieron("2023-04-01", "2023-06-30"))
