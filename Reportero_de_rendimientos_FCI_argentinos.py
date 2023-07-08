@@ -109,4 +109,4 @@ def obtener_fondos_mas_rindieron(fecha_inicio, fecha_fin):
     return fondos_filtrados
 
 
-print(obtener_fondos_mas_rindieron("2023-04-01", "2023-06-30"))
+print(obtener_fondos_mas_rindieron("2023-06-01", "2023-06-30"))
